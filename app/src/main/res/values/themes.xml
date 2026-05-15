@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.GramaKhataApp" parent="Theme.MaterialComponents.Light" />
+</resources>
