@@ -47,7 +47,7 @@ build.gradle
 ## Installation
 
 1. Clone the repository:
-   git clone [https://github.com/your-username/GramaKhata.git](https://github.com/your-username/GramaKhata.git)
+   git clone [https://github.com/sce22ec091-hub/gramakhata-app.git]
 
 2. Open the project in Android Studio.
 
