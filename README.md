@@ -29,7 +29,7 @@ The application helps vendors store customer information, manage dues, record pa
 ## Technologies Used
 
 * Android Studio
-* Java or Kotlin
+* Kotlin
 * XML for UI Design
 * SQLite or Firebase Database
 * Android SDK
@@ -38,11 +38,11 @@ The application helps vendors store customer information, manage dues, record pa
 
 GramaKhata
  │
-app
-java
-res
-AndroidManifest.xml
-build.gradle
+-app
+-java
+-res
+-AndroidManifest.xml
+-build.gradle
 
 ## Installation
 
